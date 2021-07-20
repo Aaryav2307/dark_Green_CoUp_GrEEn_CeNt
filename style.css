@@ -1,0 +1,28 @@
+.img-responsive{
+    width: 300px;
+    height:300px;
+    text-align: center;
+}
+
+.text_images_and_results{
+    border-radius: 15px;
+    border: 3px solid #f00741;
+    width: 700px;
+    height: 420px;
+    background:#ff609d;
+    box-shadow: 15px 15px 18px rgba(217, 48, 132);
+    color:crimson;
+    font-size: 20px;
+}
+
+body{
+    background:#43001a
+}
+
+hr{
+    border: 3px solid #ffb4e7;
+    width: 1000px;
+    border-radius: 25px;
+    box-shadow: 15px 15px 18px rgba(217, 48, 132);
+
+}
